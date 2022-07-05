@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronnelcodes" target="blank"><img src="https://img.shields.io/twitter/follow/ronnelcodes?logo=twitter&style=for-the-badge" alt="ronnelcodes" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.ronneljones.tk](www.ronneljones.tk)
+- 👨‍💻 All of my projects are available at [www.ronnel.codes](www.ronnel.codes)
 
 - ⚡ Fun fact **I love poké A LOT**
 
